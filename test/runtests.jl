@@ -1,6 +1,6 @@
 using UKrig
 using Test
 
-@testset "UKrig.jl" begin
+#@testset "UKrig.jl" begin
     # Write your own tests here.
-end
+    @test 1==1
